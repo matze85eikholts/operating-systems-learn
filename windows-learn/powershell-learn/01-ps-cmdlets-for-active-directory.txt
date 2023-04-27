@@ -1,0 +1,43 @@
+WINDOWS SERVER 2008 R2
+
+01: Get/Set-ADForest
+02: Get/Set-ADDomain
+03: Get/Set-ADDomainController
+04: Get/Set-ADUser
+05: Get/Set-ADComputer
+06: Get/Set-ADGroup
+07: Get/Set-ADGroupMember
+08: Get/Set-ADObject
+09: Get/Set-ADOrganizationalUnit
+
+10: Enable-ADOptionalFeature
+11: Disable/Enable-ADAccount
+12: Move-ADDirectoryServerOperationMasterRole
+13: New-ADUser
+14: New-ADComputer
+15: New-ADGroup
+16: New-ADObject
+17: New-ADOrganizationalUnit
+
+WINDOWS SERVER 2012+
+
+*-ADResourcePropertyListMember
+*-ADAuthenticationPolicy
+*-ADAuthenticationPolicySilo
+*-ADCentralAccessPolicy
+*-ADCentralAccessRule
+*-ADResourceProperty
+*-ADResourcePropertyList
+*-ADResourcePropertyValueType
+*-ADDCCloneConfigFile
+*-ADReplicationAttributeMetadata
+*-ADReplicationConnection
+*-ADReplicationFailure
+*-ADReplicationPartnerMetadata
+*-ADReplicationQueueOperation
+*-ADReplicationSite
+*-ADReplicationSiteLink
+*-ADReplicationSiteLinkBridge
+*-ADReplicationSubnet
+*-ADReplicationUpToDatenessVectorTable
+Sync-ADObject
